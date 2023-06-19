@@ -1,2 +1,2 @@
 # MovieReviewClassifier
-A website for classifying whether a movie review is positive or negative. The website is hosted here https://www.pythonanywhere.com/user/quangbui04/webapps/#tab_id_quangbui04_pythonanywhere_com
+A website for classifying whether a movie review is positive or negative. The website is hosted here http://quangbui04.pythonanywhere.com
